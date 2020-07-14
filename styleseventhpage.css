@@ -1,0 +1,40 @@
+body{background-color:gray;
+     background-image:url("images/nec1.jpg");
+     background-size:cover;
+     background-repeat:no-repeat; 
+    }
+
+header{background-color:navy; 
+       color:violet;
+       text-align:center;
+       margin:10px 372px 0px;
+       width:600px;
+      }
+
+li{display:inline-block;
+   list-style-type:none;
+   margin:20px;
+   color:white;
+   padding:10px; 
+   text-align:center;
+   font:20px/1.4 Times-roman;
+  }
+
+ul{
+   margin:0px 250px 10px;
+   background-color:navy;
+
+  } 
+
+#Home{color:navy; font:20px/1.4 Times-roman;
+      background-color:lightgray;
+     }  
+.Home{ color:#2E8D7C; text-align:center; background:lightyellow; margin:0 220px; }
+
+a:hover{ background-color:skyblue; padding:10px;}
+
+.active li{
+         background-color:skyblue; padding:10px;
+         }
+
+    
